@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-20T00:51:45 BRT" name="Default suite" finished-at="2025-04-20T00:51:48 BRT" duration-ms="2820">
+    <groups>
+    </groups>
+    <test started-at="2025-04-20T00:51:45 BRT" name="Default test" finished-at="2025-04-20T00:51:48 BRT" duration-ms="2820">
+      <class name="files.DynamicJson">
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:files.DynamicJson@4d5d943d]" started-at="2025-04-20T00:51:45 BRT" name="addBook" data-provider="BooksData" finished-at="2025-04-20T00:51:46 BRT" duration-ms="1399" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aiudida]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[93993]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:files.DynamicJson@4d5d943d]" started-at="2025-04-20T00:51:46 BRT" name="addBook" data-provider="BooksData" finished-at="2025-04-20T00:51:47 BRT" duration-ms="693" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ksdka]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9933]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:files.DynamicJson@4d5d943d]" started-at="2025-04-20T00:51:47 BRT" name="addBook" data-provider="BooksData" finished-at="2025-04-20T00:51:48 BRT" duration-ms="707" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ifsasa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9920]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- files.DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
