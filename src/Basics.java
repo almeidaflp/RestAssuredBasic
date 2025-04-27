@@ -11,7 +11,6 @@ import java.nio.file.Paths;
 import org.testng.Assert;
 
 import files.ReUsableMethods;
-import files.payload;
 
 public class Basics {
 
